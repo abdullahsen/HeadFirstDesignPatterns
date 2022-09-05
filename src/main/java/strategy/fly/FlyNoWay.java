@@ -1,4 +1,4 @@
-package intro.fly;
+package strategy.fly;
 
 public class FlyNoWay implements FlyBehaviour{
     @Override

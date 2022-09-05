@@ -1,4 +1,4 @@
-package intro.fly;
+package strategy.fly;
 
 public class FlyRockerPowered implements FlyBehaviour {
     @Override
